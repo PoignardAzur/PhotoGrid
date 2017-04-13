@@ -1,6 +1,6 @@
 # item_grid
 
-> A Neodymium project
+Vue-base server app displaying a grid 
 
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
 
